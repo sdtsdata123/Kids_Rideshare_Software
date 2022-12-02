@@ -19,7 +19,7 @@ const Confirm = () => {
     fetch(
       `https://api.mapbox.com/geocoding/v5/mapbox.places/${pickuplocation}.json?` +
         new URLSearchParams({
-          access_token: "YOUR_ACCESS_TOKEN",
+          access_token: "pk.eyJ1IjoibWFpd2FzZSIsImEiOiJjbGI2ZWVkeHAwMDk4M3VwOWVubnMybGdzIn0.5cjZQNgw0HvXBwdiX6Igzw",
           limit: 1,
         })
     )
