@@ -1,5 +1,5 @@
 {
-  "name": "Kids Rideshare Software",
+  "name": "kidsridesharesoftware",
   "private": true,
   "scripts": {
     "dev": "next dev",
